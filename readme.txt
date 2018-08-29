@@ -1,1 +1,1 @@
-This is SpringCloudDemo project.
+This is the first springCloud project.
